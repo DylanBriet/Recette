@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Recette/static/css/main.16b09821.css",
+    "main.css": "/Recette/static/css/main.21370266.css",
     "main.js": "/Recette/static/js/main.39d315ab.js",
     "static/js/453.501bfd78.chunk.js": "/Recette/static/js/453.501bfd78.chunk.js",
     "static/media/giphy.gif": "/Recette/static/media/giphy.74d347ea192bea4f674e.gif",
@@ -10,12 +10,12 @@
     "static/media/poulet.jpg": "/Recette/static/media/poulet.77b818ccda53cf4d6339.jpg",
     "static/media/omelette.webp": "/Recette/static/media/omelette.021000b8e988c8dc3463.webp",
     "index.html": "/Recette/index.html",
-    "main.16b09821.css.map": "/Recette/static/css/main.16b09821.css.map",
+    "main.21370266.css.map": "/Recette/static/css/main.21370266.css.map",
     "main.39d315ab.js.map": "/Recette/static/js/main.39d315ab.js.map",
     "453.501bfd78.chunk.js.map": "/Recette/static/js/453.501bfd78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16b09821.css",
+    "static/css/main.21370266.css",
     "static/js/main.39d315ab.js"
   ]
 }
