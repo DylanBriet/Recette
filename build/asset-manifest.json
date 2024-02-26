@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.16b09821.css",
-    "main.js": "/repo/static/js/main.78f5db1e.js",
-    "static/js/453.501bfd78.chunk.js": "/repo/static/js/453.501bfd78.chunk.js",
-    "static/media/giphy.gif": "/repo/static/media/giphy.74d347ea192bea4f674e.gif",
-    "static/media/saladecesar.webp": "/repo/static/media/saladecesar.cf640206a8b4b1ee97a0.webp",
-    "static/media/quiche.webp": "/repo/static/media/quiche.dcbe19091777b9dc642a.webp",
-    "static/media/pattescarbonara.jpg": "/repo/static/media/pattescarbonara.9ac726732289d1c49314.jpg",
-    "static/media/poulet.jpg": "/repo/static/media/poulet.77b818ccda53cf4d6339.jpg",
-    "static/media/omelette.webp": "/repo/static/media/omelette.021000b8e988c8dc3463.webp",
-    "index.html": "/repo/index.html",
-    "main.16b09821.css.map": "/repo/static/css/main.16b09821.css.map",
-    "main.78f5db1e.js.map": "/repo/static/js/main.78f5db1e.js.map",
-    "453.501bfd78.chunk.js.map": "/repo/static/js/453.501bfd78.chunk.js.map"
+    "main.css": "/Recette/static/css/main.21370266.css",
+    "main.js": "/Recette/static/js/main.39d315ab.js",
+    "static/js/453.501bfd78.chunk.js": "/Recette/static/js/453.501bfd78.chunk.js",
+    "static/media/giphy.gif": "/Recette/static/media/giphy.74d347ea192bea4f674e.gif",
+    "static/media/saladecesar.webp": "/Recette/static/media/saladecesar.cf640206a8b4b1ee97a0.webp",
+    "static/media/quiche.webp": "/Recette/static/media/quiche.dcbe19091777b9dc642a.webp",
+    "static/media/pattescarbonara.jpg": "/Recette/static/media/pattescarbonara.9ac726732289d1c49314.jpg",
+    "static/media/poulet.jpg": "/Recette/static/media/poulet.77b818ccda53cf4d6339.jpg",
+    "static/media/omelette.webp": "/Recette/static/media/omelette.021000b8e988c8dc3463.webp",
+    "index.html": "/Recette/index.html",
+    "main.21370266.css.map": "/Recette/static/css/main.21370266.css.map",
+    "main.39d315ab.js.map": "/Recette/static/js/main.39d315ab.js.map",
+    "453.501bfd78.chunk.js.map": "/Recette/static/js/453.501bfd78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16b09821.css",
-    "static/js/main.78f5db1e.js"
+    "static/css/main.21370266.css",
+    "static/js/main.39d315ab.js"
   ]
 }
