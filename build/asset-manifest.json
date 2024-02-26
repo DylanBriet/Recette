@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16b09821.css",
+    "main.js": "/static/js/main.123d6c81.js",
+    "static/js/453.501bfd78.chunk.js": "/static/js/453.501bfd78.chunk.js",
+    "static/media/giphy.gif": "/static/media/giphy.74d347ea192bea4f674e.gif",
+    "static/media/saladecesar.webp": "/static/media/saladecesar.cf640206a8b4b1ee97a0.webp",
+    "static/media/quiche.webp": "/static/media/quiche.dcbe19091777b9dc642a.webp",
+    "static/media/pattescarbonara.jpg": "/static/media/pattescarbonara.9ac726732289d1c49314.jpg",
+    "static/media/poulet.jpg": "/static/media/poulet.77b818ccda53cf4d6339.jpg",
+    "static/media/omelette.webp": "/static/media/omelette.021000b8e988c8dc3463.webp",
+    "index.html": "/index.html",
+    "main.16b09821.css.map": "/static/css/main.16b09821.css.map",
+    "main.123d6c81.js.map": "/static/js/main.123d6c81.js.map",
+    "453.501bfd78.chunk.js.map": "/static/js/453.501bfd78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b09821.css",
+    "static/js/main.123d6c81.js"
+  ]
+}
