@@ -1,26 +1,44 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import ListeDeRecettes from './components/ListeDeRecettes';
+import RecettePage from './components/RecettePage';
+import BarreDeRecherche from './components/BarreDeRecherche';
+import SearchBar from './components/SearchBar';
+import ResultatsRecherche from './components/ResultatsRecherche';
+import CookingPot from './components/CookingPot';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
+  const [showPot, setShowPot] = useState(false);
+
+  const toggleShowPot = (shouldShow: boolean) => {
+    console.log(`toggleShowPot called with: ${shouldShow}`);
+    setShowPot(shouldShow);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <nav>
+          <Link to="/">Des recettes succulentes</Link>
+        </nav>
+        <BarreDeRecherche toggleShowPot={toggleShowPot} />
+        <SearchBar toggleShowPot={toggleShowPot} />
+        <CookingPot isVisible={showPot} />
+        <Switch>
+          <Route path="/recette/:id">
+            <RecettePage />
+          </Route>
+          <Route path="/resultats">
+            <ResultatsRecherche />
+          </Route>
+          <Route exact path="/">
+            <ListeDeRecettes />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
-}
+};
 
 export default App;

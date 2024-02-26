@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "titre": "Pâtes à la Carbonara",
+        "ingredients": ["Pâtes", "Lardons", "Œufs"],
+        "tempsCuisson": "20 minutes",
+        "imageUrl": "pattescarbonara.jpg"
+    },
+    {
+        "id": 2,
+        "titre": "Salade César",
+        "ingredients": ["Laitue romaine", "Croûtons", "Parmesan"],
+        "tempsCuisson": "10 minutes",
+        "imageUrl": "saladecesar.webp"
+    },
+    {
+        "id": 3,
+        "titre": "Omelette aux champignons",
+        "ingredients": ["Œufs", "Champignons", "Fromage"],
+        "tempsCuisson": "15 minutes",
+        "imageUrl": "omelette.webp"
+    },
+    {
+        "id": 4,
+        "titre": "Poulet au curry",
+        "ingredients": ["Poulet", "Pâte de curry", "Lait de coco"],
+        "tempsCuisson": "25 minutes",
+        "imageUrl": "poulet.jpg"
+    },
+    {
+        "id": 5,
+        "titre": "Quiche lorraine",
+        "ingredients": ["Pâte brisée", "Lardons", "Crème fraîche"],
+        "tempsCuisson": "45 minutes",
+        "imageUrl": "quiche.webp"
+    }
+]
